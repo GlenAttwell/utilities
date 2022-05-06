@@ -4,9 +4,12 @@
   "description": "calculate the smallest window that contains a distinct character",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "start": "node index.js"
   },
   "author": "Glen Attwell",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
 }
