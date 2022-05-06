@@ -1,0 +1,12 @@
+{
+  "name": "aws-window-calculator",
+  "version": "1.0.0",
+  "description": "calculate the smallest window that contains a distinct character",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Glen Attwell",
+  "license": "MIT"
+}
